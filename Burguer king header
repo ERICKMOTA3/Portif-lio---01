@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+   <img src="https://tse3.mm.bing.net/th?id=OIP.GAQk2Ykay_6eZEa_vV1DaAHaHa&pid=Api&P=0&h=180" width="100px" alt="Logo burguer king">
+    <nav>
+      <ul>
+        <li><a href="">Whooper</a></li>
+        <li><a href="">Faça seu pedido</a></li>
+        <li><a href="">Promoções</a></li>
+        <li><a href="">Combos</a></li>
+      </ul>
+    </nav>
+    <nav>
+      <ul>
+        <li><a href=""><img src="./email.png" alt="email logo"></a></li>
+        <li><a href=""><img src="Linkendin.png" alt="linkendin logo"></a></li>
+        <li><a href=""><img src="git hub.png" alt="git hub logo"></a></li>
+        <li><a href=""><img src="instagram.png" alt="instagram logo"></a></li>
+      </ul> 
+    </nav>
+  </header>
+</body>
+</html>
